@@ -1,3 +1,5 @@
+#Receipt generator
+
 #I decided to ad a promt asking if a tip wanted to be added and then calcualed
 # the new total depending on the percent they wanted to tip.
 

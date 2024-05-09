@@ -1,3 +1,5 @@
+#Find the area of shapes
+
 import math
 meter = 10000
 

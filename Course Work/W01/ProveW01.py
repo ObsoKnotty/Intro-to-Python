@@ -1,3 +1,5 @@
+#Madlib generator
+
 #I decided to make verb an array to see if I could add elements to an array using the input method to get a response out of a user.
 verb = []
 print('Please enter the following:')
